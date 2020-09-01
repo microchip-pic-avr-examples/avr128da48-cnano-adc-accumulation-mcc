@@ -20,7 +20,7 @@
 		],
         "dfp": {
             "name": "AVR-DX_DFP",
-            "semverRange": "1.4.75"
+            "semverRange": "^1.4.75"
         },
         "configurator": {
             "name": "MCC",
@@ -46,19 +46,15 @@
                "Peripherals", "VREF"
             ],
             [
-                "Peripherals", "USART"
-             ]
-
+               "Peripherals", "USART"
+            ]
         ],
         "peripherals": [
             "ADC", "VREF", "USART"
         ],
         "keywords": [
-            "mcc",
-            "adc",
-            "vref",
-            "sample",
-            "accumulation"			
+            "Sample",
+            "Accumulation"			
         ],
 		"additionalData": {
 			"longDescription": {
