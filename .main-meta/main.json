@@ -4,7 +4,7 @@
     "content": {
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.mplabx.project.avr128da48-cnano-adc-accumulation-mcc",
-        "version": "1.0.1",
+        "version": "1.0.2",
         "displayName": "ADC Accumulation",
         "projectName": "avr128da48-cnano-adc-accumulation-mcc",
         "shortDescription": "This repository provides a MPLAB X IDE project with a MCC (MPLAB Code Configurator) generated code example for the Accumulation feature of the 12-bit ADC peripheral from the AVR128DA48 device.",
